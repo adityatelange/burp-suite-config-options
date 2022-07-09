@@ -365,10 +365,10 @@
                     "wrap_text":false
                 }
             ],
-            "out_of_scope_history_logging_action":"prompt",
+            "out_of_scope_history_logging_action":"disable",
             "pause_tasks_at_startup_default":true,
-            "show_learn_tab":true,
-            "submit_anonymous_feedback":true,
+            "show_learn_tab":false,
+            "submit_anonymous_feedback":false,
             "temporary_files_location":""
         },
         "proxy":{
