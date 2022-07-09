@@ -1,0 +1,19 @@
+{
+    "proxy":{
+        "miscellaneous":{
+            "disable_logging_to_history_and_site_map":false,
+            "disable_out_of_scope_logging_to_history_and_site_map":false,
+            "disable_web_interface":false,
+            "remove_unsupported_encodings_from_accept_encoding_headers_in_incoming_requests":true,
+            "set_connection_close_header_on_responses":false,
+            "set_connection_header_on_requests":true,
+            "strip_proxy_headers_in_incoming_requests":true,
+            "strip_sec_websocket_extensions_headers_in_incoming_requests":true,
+            "suppress_burp_error_messages_in_browser":false,
+            "unpack_gzip_deflate_in_requests":false,
+            "unpack_gzip_deflate_in_responses":true,
+            "use_http_10_in_requests_to_server":false,
+            "use_http_10_in_responses_to_client":false
+        }
+    }
+}
