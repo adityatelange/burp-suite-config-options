@@ -1,9 +1,22 @@
 {
     "target":{
         "scope":{
-            "advanced_mode":false,
-            "exclude":[],
-            "include":[]
+            "advanced_mode":true,
+            "exclude":[
+                {
+                    "enabled":true,
+                    "host":"^fonts\\.googleapis\\.com$",
+                    "port":"^443$",
+                    "protocol":"https"
+                }
+            ],
+            "include":[
+                {
+                    "enabled":true,
+                    "host":".*.",
+                    "protocol":"any"
+                }
+            ]
         }
     }
 }

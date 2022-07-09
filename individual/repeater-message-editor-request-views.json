@@ -13,32 +13,32 @@
                     "wrap_text":false
                 },
                 {
-                    "show":true,
+                    "show":false,
                     "type":"hex",
                     "wrap_text":false
                 },
                 {
-                    "show":false,
+                    "show":true,
                     "type":"headers",
                     "wrap_text":false
                 },
                 {
-                    "show":false,
+                    "show":true,
                     "type":"query_parameters",
                     "wrap_text":false
                 },
                 {
-                    "show":false,
+                    "show":true,
                     "type":"body_parameters",
                     "wrap_text":false
                 },
                 {
-                    "show":false,
+                    "show":true,
                     "type":"cookies",
                     "wrap_text":false
                 },
                 {
-                    "show":false,
+                    "show":true,
                     "type":"attributes",
                     "wrap_text":false
                 }

@@ -27,7 +27,7 @@
                 },
                 {
                     "boolean_operator":"and",
-                    "enabled":false,
+                    "enabled":true,
                     "match_relationship":"is_in_target_scope",
                     "match_type":"url"
                 }

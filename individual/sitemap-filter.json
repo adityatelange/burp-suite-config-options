@@ -7,13 +7,9 @@
             },
             "by_file_extension":{
                 "hide_items":[
-                    "js",
-                    "gif",
-                    "jpg",
-                    "png",
-                    "css"
+                    "woff2"
                 ],
-                "hide_specific":false,
+                "hide_specific":true,
                 "show_items":[
                     "asp",
                     "aspx",
@@ -26,20 +22,20 @@
                 "hide_empty_folders":true
             },
             "by_mime_type":{
-                "show_css":false,
+                "show_css":true,
                 "show_flash":true,
                 "show_html":true,
-                "show_images":false,
-                "show_other_binary":false,
+                "show_images":true,
+                "show_other_binary":true,
                 "show_other_text":true,
                 "show_script":true,
                 "show_xml":true
             },
             "by_request_type":{
-                "hide_not_found_items":true,
-                "show_only_in_scope_items":false,
+                "hide_not_found_items":false,
+                "show_only_in_scope_items":true,
                 "show_only_parameterized_requests":false,
-                "show_only_requested_items":false
+                "show_only_requested_items":true
             },
             "by_search":{
                 "case_sensitive":false,
@@ -50,7 +46,7 @@
             "by_status_code":{
                 "show_2xx":true,
                 "show_3xx":true,
-                "show_4xx":false,
+                "show_4xx":true,
                 "show_5xx":true
             }
         }

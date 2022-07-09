@@ -13,7 +13,7 @@
                     "wrap_text":false
                 },
                 {
-                    "show":true,
+                    "show":false,
                     "type":"hex",
                     "wrap_text":false
                 },
@@ -23,7 +23,7 @@
                     "wrap_text":false
                 },
                 {
-                    "show":false,
+                    "show":true,
                     "type":"headers",
                     "wrap_text":false
                 }
