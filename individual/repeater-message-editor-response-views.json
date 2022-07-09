@@ -1,0 +1,33 @@
+{
+    "user_options":{
+        "misc":{
+            "message_editor_response_configurations":[
+                {
+                    "show":true,
+                    "type":"pretty",
+                    "wrap_text":false
+                },
+                {
+                    "show":true,
+                    "type":"raw",
+                    "wrap_text":false
+                },
+                {
+                    "show":true,
+                    "type":"hex",
+                    "wrap_text":false
+                },
+                {
+                    "show":true,
+                    "type":"render",
+                    "wrap_text":false
+                },
+                {
+                    "show":false,
+                    "type":"headers",
+                    "wrap_text":false
+                }
+            ]
+        }
+    }
+}
